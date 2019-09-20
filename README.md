@@ -1,2 +1,1 @@
-# Vtulich_microservices
-Vtulich microservices repository
+Выполнено ДЗ №12
