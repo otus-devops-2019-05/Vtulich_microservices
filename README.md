@@ -1,2 +1,18 @@
-# Vtulich_microservices
-Vtulich microservices repository
+Выполнено ДЗ 12
+
+    Основное ДЗ
+
+В процессе сделано:
+
+    Установлен Docker его компоненты и зависимости
+    Создали и поигрались с контейнерами
+    Запилил нашу DB и приложение в контейнер
+    Зарегались на docker hub и запушили туда наш образ
+
+Как запустить проект:
+
+    Выполнить команду - "docker build -t reddit:latest ."
+
+Как проверить работоспособность:
+
+    По ссылке https://travis-ci.com/otus-devops-2019-05/Vtulich_microservices
