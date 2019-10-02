@@ -1,3 +1,22 @@
+Выполнено ДЗ 16
+
+    Основное ДЗ
+
+В процессе сделано:
+
+    Сконфигурировали и запустили Prometheus
+    Замониторили микросервисы
+    Собрали метрики состояния хоста NodeExporter
+    Ссылка на репу - https://cloud.docker.com/u/vtulich/repository/list
+
+Как запустить проект:
+
+    Выполнить команду docker-compose up -d
+
+Как проверить работоспособность:
+
+    По ссылке https://travis-ci.com/otus-devops-2019-05/Vtulich_microservices
+
 Выполнено ДЗ 15
 
     Основное ДЗ
