@@ -1,3 +1,23 @@
+Выполнено ДЗ 17
+
+    Основное ДЗ
+
+В процессе сделано:
+
+    Замониторили Docker контейнеры CAdvisor
+    Построили графики в Grafana
+    Собрали метрики работы приложений и бизнес метрики
+    Настроили и проверили алертинг
+    Ссылка на репу - https://cloud.docker.com/u/vtulich/repository/list
+
+Как запустить проект:
+
+    Выполнить команду docker-compose up -d&&docker-compose -f docker-compose-monitoring.yml up -d
+
+Как проверить работоспособность:
+
+    По ссылке https://travis-ci.com/otus-devops-2019-05/Vtulich_microservices
+
 Выполнено ДЗ 16
 
     Основное ДЗ
