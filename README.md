@@ -1,3 +1,21 @@
+Выполнено ДЗ 20
+
+    Основное ДЗ
+
+В процессе сделано:
+
+    Развернули локальное окружение для работы с Kubernetes
+    Развернули Kubernetes в GKE
+    Запустили reddit в Kubernetes
+
+Как запустить проект:
+
+    Выполнить команду kubectl apply -n dev -f *filename*
+
+Как проверить работоспособность:
+
+    По ссылке https://travis-ci.com/otus-devops-2019-05/Vtulich_microservices
+
 Выполнено ДЗ 19
 
     Основное ДЗ
